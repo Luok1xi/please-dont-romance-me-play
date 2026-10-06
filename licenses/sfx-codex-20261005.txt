@@ -1,0 +1,31 @@
+SFX-01 第二版来源授权记录 · 核对日期 2026-10-05
+
+一、効果音ラボ
+作者/发布者：効果音ラボ
+条款：https://soundeffect-lab.info/agreement/
+条款页面允许免费商用、修改音效；署名与链接为可选。
+版权未放弃。禁止将原文件或修改后的素材单独再分发、出售，禁止素材分享型产品，
+以及影响其他用户使用的 Content ID 等独占登记；其他限制以该原页为准。
+本包是同一游戏项目的内部交接；使用时嵌入游戏，不把音效单独对外提供下载。
+本地授权原页快照：production/sfx-20261005/sources/lab-license.html。
+
+二、Freesound / CC0 1.0
+许可：https://creativecommons.org/publicdomain/zero/1.0/
+采用页面公开的高质量 MP3 预览，未声称取得原始 WAV。允许商用、修改，无强制署名。
+以下页面均已保存含 CC0 标记的原页快照于 production/sfx-20261005/revision2/new-sources/。
+
+Nickisawsome74 / Static
+https://freesound.org/people/Nickisawsome74/sounds/669620/
+mattlohkamp / double slash.wav
+https://freesound.org/people/mattlohkamp/sounds/246462/
+mattlohkamp / static rain interference.wav
+https://freesound.org/people/mattlohkamp/sounds/246451/
+mattlohkamp / swipe dash.wav
+https://freesound.org/people/mattlohkamp/sounds/246472/
+
+处理包括切片、重复、断续、混合、去直流/低频过滤、响度调整，逐条见 SOURCES.json。
+旧版 AmicaSys / colorsCrimsonTears 音源已全部退出本轮 27 个候选，仅存于历史备份。
+
+三、DDLC 参考
+仅在 production/sfx-20261005/revision2/reference-only/ 供内部研究，未用于交付候选。
+第三方移植镜像不构成游戏使用授权，不随游戏发布；来源与限制见参考说明.txt。
