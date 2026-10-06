@@ -1,3 +1,5 @@
-# Browser player distribution
-
-This repository contains the compressed, playable browser build only. The original development project, editable story files, source maps and collaboration records remain private. Runtime code is necessarily delivered to the player's browser. Asset rights remain with their owners.
+# 这是浏览器试玩版本
+这个仓库只含有经过压缩，可以直接在浏览器中运行的游戏构建版本，同时是我送给女朋友的19岁生日礼物。
+它的原始开发工程，可编辑的剧情文件，源码映射文件我不会公开。
+剧情部分以ddlc为灵感，感谢这部对我影响非常大的游戏，我在这部游戏上找到了很多共鸣的地方。
+感谢你的游玩。
